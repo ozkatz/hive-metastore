@@ -13,6 +13,8 @@ And then run
 ```bash
 $ export S3_BUCKET="my-bucket"
 $ export S3_PREFIX="path/to/warehouse/"
+$ export AWS_ACCESS_KEY_ID="AKIA..."
+$ export AWS_SECRET_ACCESS_KEY="..."
 $ docker compose up
 ```
 
